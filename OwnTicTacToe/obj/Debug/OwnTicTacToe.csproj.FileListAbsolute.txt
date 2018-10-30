@@ -1,0 +1,10 @@
+C:\Users\Niklas\source\repos\OwnTicTacToe\OwnTicTacToe\bin\Debug\OwnTicTacToe.exe.config
+C:\Users\Niklas\source\repos\OwnTicTacToe\OwnTicTacToe\bin\Debug\OwnTicTacToe.exe
+C:\Users\Niklas\source\repos\OwnTicTacToe\OwnTicTacToe\bin\Debug\OwnTicTacToe.pdb
+C:\Users\Niklas\source\repos\OwnTicTacToe\OwnTicTacToe\obj\Debug\OwnTicTacToe.csprojAssemblyReference.cache
+C:\Users\Niklas\source\repos\OwnTicTacToe\OwnTicTacToe\obj\Debug\OwnTicTacToe.Form1.resources
+C:\Users\Niklas\source\repos\OwnTicTacToe\OwnTicTacToe\obj\Debug\OwnTicTacToe.Properties.Resources.resources
+C:\Users\Niklas\source\repos\OwnTicTacToe\OwnTicTacToe\obj\Debug\OwnTicTacToe.csproj.GenerateResource.cache
+C:\Users\Niklas\source\repos\OwnTicTacToe\OwnTicTacToe\obj\Debug\OwnTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Niklas\source\repos\OwnTicTacToe\OwnTicTacToe\obj\Debug\OwnTicTacToe.exe
+C:\Users\Niklas\source\repos\OwnTicTacToe\OwnTicTacToe\obj\Debug\OwnTicTacToe.pdb
